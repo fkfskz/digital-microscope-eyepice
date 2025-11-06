@@ -31,9 +31,7 @@ module smartphone(){
         cylinder(d=r_round_corner, h=9,center=true);
     }
 }
-//ocular();
-//translate([0,0,35/2+5/2])
-//top();
+
 
 module top(){
     difference(){
