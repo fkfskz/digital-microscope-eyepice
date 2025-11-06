@@ -10,7 +10,7 @@ module top() {
     cylinder(d=30, h=5, center=true);
     cylinder(d=23-0.5-3, h=15, center=true);
     }
-  }
+}
 
 module ocular() {
 difference() {
