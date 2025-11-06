@@ -32,6 +32,9 @@ module smartphone(){
     }
 }
 
+//ocular();
+//translate([0,0,35/2+5/2])
+//top();
 
 module top(){
     difference(){
